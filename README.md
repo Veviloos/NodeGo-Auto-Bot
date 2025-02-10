@@ -1,5 +1,7 @@
 # NodeGo Auto Bot
 
+# Register [here](https://app.nodego.ai/r/NODE1EF9BAA27D94)
+
 Automated bot for NodeGo platform with support for multiple accounts and proxy configurations (HTTP/SOCKS).
 
 ## Features
